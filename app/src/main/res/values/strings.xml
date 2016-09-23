@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">JsonReddit</string>
+    <string name="caragando">Cargando...</string>
+    <string name="sin_internet">No hay conexión a internet , ni registros</string>
+    <string name="sin_internet_error">ERROR</string>
+    <string name="ex_img">.png</string>
+    <string name="summary">Summary</string>
+    <string name="costo">Costo</string>
+    <string name="autor">Autor</string>
+    <string name="id_entry">Id</string>
+    <string name="bundle_entry">Bundle</string>x
+    <string name="id_extra">position</string>
+    <string name="categorias">Categorias</string>
+    <string name="resumen_app">Resumen App</string>
+    <string name="apps">Apps Disponibles</string>
+    <string name="Descargando">Espere un momento , estamos descargando la información nescesaria\n</string>
+    <string name="fallo_internet">Revise su conexion a internet</string>
+    <string name="apps_file">Apps Disponibles</string>
+    <string name="error">Error</string>
+    <string name="error_json">Imposible Guardar JSON</string>
+    <string name="json">json</string>
+    <string name="json_id">id</string>
+    <string name="json_display_name">display_name</string>
+    <string name="json_public_description">public_description</string>
+    <string name="json_header_img">header_img</string>
+    <string name="json_submit_text">submit_text</string>
+    <string name="json_subscribers">subscribers</string>
+    <string name="json_title">title</string>
+    <string name="json_description">description</string>
+    <string name="id_json_url">urlimagen</string>
+    <string name="json_tipo">subreddit_type</string>
+    <string name="funcion_cache">La aplicacion funcionara modo offline</string>
+    <string name="json_resumen">resumen</string>
+    <string name="click_sobre_imagen">Click Sobre la imagen para ver el resumen</string>
+</resources>
+
